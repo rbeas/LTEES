@@ -4,7 +4,7 @@ output: word_document
 # LTEES
 This is a data repository for an analysis of the importance of long-term ecological and environmental studies (LTEES).
 
-# Authors:
+# Authors
 Brent B. Hughes1,2†, Rodrigo Beas-Luna1,3†, Allison Barner4, Kimberly Brewitt1, Daniel R. Brumbaugh5,6, Elizabeth Cerny-Chipman4, Sarah L. Close4, Kyle E. Coblentz4, Kristin L. de Nesnera1, Sarah T. Drobnitch1, Jared D. Figurski7, Becky Focht4, Jan Freiwald6,8, Maya Friedman1, Walter N. Heady1,9, Kendra A. Karr1,10, Kristen Kusic Heady1, Annaliese Hettinger4, Angela Johnson4, Brenna Mahoney1, Monica M. Moritsch1, Ann-Marie K. Osterback1,11, Jessica Reimer4, Jonathan Robinson4, Tully Rohrer4, Jeremy Rose4, Megan Sabal1,11, Leah M. Segui4, Chenchen Shen4, Jenna Sullivan4, Rachel Zuercher1, Peter T. Raimondi1, Bruce A. Menge4, Kirsten Grorud-Colvert4, Mark Novak1,4, Mark H. Carr1*
 
 # Affiliations
